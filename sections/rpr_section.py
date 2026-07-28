@@ -121,7 +121,7 @@ def render_rpr_section():
     st.header("R_pr：Probing rate")
 
     st.write(
-        "這一頁計算 probe light 對原子造成的 probing rate。"
+        "計算 probe light 對原子造成的 probing rate。"
     )
 
     st.subheader("1. Input parameters")
