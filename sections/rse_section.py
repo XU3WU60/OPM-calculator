@@ -129,7 +129,7 @@ def render_rse_section():
     st.header("R_se：Spin-exchange collision rate")
 
     st.write(
-        "這一頁計算 Rb 原子彼此碰撞所造成的 "
+        "計算 Rb 原子彼此碰撞造成的 "
         "spin-exchange collision rate。"
     )
 
