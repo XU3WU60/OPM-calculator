@@ -129,7 +129,7 @@ def render_rsd_section():
     st.header("R_sd：Spin-destruction collision rate")
 
     st.write(
-        "這一頁計算 Rb 原子與 buffer gas，例如 N₂，或 wall collision 造成的 spin-destruction rate。"
+        "計算 Rb 原子與 buffer gas，例如 N₂ 造成的 spin-destruction rate。"
     )
 
     st.subheader("1. Input parameters")
