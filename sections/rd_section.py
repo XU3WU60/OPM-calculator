@@ -106,7 +106,7 @@ def render_rd_section():
     st.header("R_D：Diffusion collision rate")
 
     st.write(
-        "這一頁計算原子因 diffusion collision 造成的 relaxation rate。"
+        "計算 diffusion collision 對原子造成的 relaxation rate。"
     )
 
     st.subheader("1. Input parameters")
