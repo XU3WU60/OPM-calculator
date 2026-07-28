@@ -120,7 +120,7 @@ def render_rp_section():
     st.header("R_p：Pumping rate")
 
     st.write(
-        "這一頁計算 pump light 對原子造成的 pumping rate。"
+        "計算 pump light 對原子造成的 pumping rate。"
     )
 
     st.subheader("1. Input parameters")
