@@ -32,13 +32,18 @@ st.markdown(
         width: 320px !important;
     }
 
-    div[data-testid="stTabs"] button {
-        flex: 1;
-        text-align: center;
-        justify-content: center;
+    div[data-testid="stTabs"] [role="tablist"] {
+        display: flex;
+        width: 100%;
     }
 
-    div[data-testid="stTabs"] button p {
+    div[data-testid="stTabs"] [role="tab"] {
+        flex: 1 1 0;
+        justify-content: center;
+        text-align: center;
+    }
+
+    div[data-testid="stTabs"] [role="tab"] p {
         width: 100%;
         text-align: center;
         font-size: 1rem;
