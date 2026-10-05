@@ -79,6 +79,8 @@ Version history (ノ°∀°)ノ⌒･*:.｡. .｡.
 **OPM Parameter Calculator 2.5**：同步共同參數。  
 **OPM Parameter Calculator 3.0**：修正科學記號顯示&加入R_se的計算。  
 **OPM Parameter Calculator 4.0**：加入R_PR, R_p的計算。  
+
+Web Producer - Ting-An, Li
 """
 )
 
