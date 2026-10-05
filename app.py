@@ -91,7 +91,7 @@ col_img, col_text = st.columns([0.7, 7])
 with col_img:
     st.image(
         "我的虛擬人像/9998191e-b637-4f3d-a01b-3c45fca4f405.png",
-        width=90
+        width=80
     )
 
 with col_text:
