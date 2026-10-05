@@ -84,6 +84,8 @@ Web Producer - Ting-An, Li
 """
 )
 
+st.image("我的虛擬人像/9998191e-b637-4f3d-a01b-3c45fca4f405.png")
+
 tab_rd, tab_rsd, tab_rse, tab_rpr, tab_rp = st.tabs(
     ["R_D", "R_sd", "R_se", "R_pr", "R_p"]
 )
