@@ -88,8 +88,6 @@ Version history (ノ°∀°)ノ⌒･*:.｡. .｡.
 
 col_img, col_text = st.columns([1, 6])
 
-col_img, col_text = st.columns([1, 5], vertical_alignment="center")
-
 with col_text:
     st.markdown("""
     Welcome to OPM Calculator! I'm Web Producer - Ting-An, Li  
