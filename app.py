@@ -91,9 +91,16 @@ col_img, col_text = st.columns([1, 6])
 with col_img:
     st.image("我的虛擬人像/9998191e-b637-4f3d-a01b-3c45fca4f405.png", width=100)
 
+col_img, col_text = st.columns([1, 5], vertical_alignment="center")
+
+with col_img:
+    st.image("我的虛擬人像/9998191e-b637-4f3d-a01b-3c45fca4f405.png", width=110)
+
 with col_text:
-    st.write("Web Producer - Ting-An, Li")  
-    st.write("gmail：Ann930226ann@gmail.com")
+    st.markdown("""
+    ## Welcome to OPM Calculator, I'm Web Producer - Ting-An, Li  
+    If you have any problem, please let me know：Ann930226ann@gmail.com
+    """)
 
 tab_rd, tab_rsd, tab_rse, tab_rpr, tab_rp = st.tabs(
     ["R_D", "R_sd", "R_se", "R_pr", "R_p"]
