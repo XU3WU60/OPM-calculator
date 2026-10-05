@@ -86,13 +86,13 @@ Version history (ノ°∀°)ノ⌒･*:.｡. .｡.
 """
 )
 
-col1, col2 = st.columns([1, 2])
+col_img, col_text = st.columns([1, 4])
 
-with col1:
+with col_img:
+    st.image("我的虛擬人像/9998191e-b637-4f3d-a01b-3c45fca4f405.png", width=110)
+
+with col_text:
     st.write("Web Producer - Ting-An, Li")
-
-with col2:
-    st.image("我的虛擬人像/9998191e-b637-4f3d-a01b-3c45fca4f405.png", width=150)
 
 tab_rd, tab_rsd, tab_rse, tab_rpr, tab_rp = st.tabs(
     ["R_D", "R_sd", "R_se", "R_pr", "R_p"]
