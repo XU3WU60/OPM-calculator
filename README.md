@@ -1,5 +1,5 @@
 # OPM-calculator
-這是一個用於計算 OPM 參數的網站工具，目前尚在測試中
+這是一個用於計算 OPM 參數的網站工具
 
 Version history: 
 OPM Parameter Calculator 1.0：建立 R_D diffusion collision rate 的完整計算流程。 
