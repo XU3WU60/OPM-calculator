@@ -71,7 +71,8 @@ st.markdown(
     """
 這是一個用於計算 OPM 參數的網站工具。  
 
-** (ノ°∀°)ノ⌒･*:.｡. .｡. Version history:**  
+**Version history (ノ°∀°)ノ⌒･*:.｡. .｡. **  
+
 **OPM Parameter Calculator 1.0**：建立 R_D diffusion collision rate 的完整計算流程。  
 **OPM Parameter Calculator 1.5**：優化版面。  
 **OPM Parameter Calculator 2.0**：加入 R_sd 的計算。  
