@@ -86,7 +86,7 @@ Version history (ノ°∀°)ノ⌒･*:.｡. .｡.
 """
 )
 
-col_img, col_text = st.columns([0.7, 7])
+col_img, col_text = st.columns([0.6, 7])
 
 with col_img:
     st.image(
